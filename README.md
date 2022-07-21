@@ -24,7 +24,3 @@ Serve the app to browser
 
 - [x] Use localstorage to store todos
 - [ ] Improve app responsiveness on all devices
-
-## Contributing
-
-Feel free to open issues and pull requests!
